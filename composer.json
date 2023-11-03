@@ -1,0 +1,16 @@
+{
+    "name": "volg-mvs/volg-db",
+    "description": "Simples ORM em PHP",
+    "autoload": {
+        "psr-4": {
+            "VolgMvs\\VolgDb\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mauro",
+            "email": "mauro.emc@outlook.com"
+        }
+    ],
+    "require": {}
+}
