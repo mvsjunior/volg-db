@@ -1,6 +1,8 @@
 {
     "name": "volg-mvs/volg-db",
     "description": "Simples ORM em PHP",
+    "type": "library",
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "VolgMvs\\VolgDb\\": "src/"
